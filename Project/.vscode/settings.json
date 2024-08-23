@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "ACOUSTICNESS",
+        "danceability",
+        "INSTRUMENTALNESS",
+        "selectbox",
+        "SPEECHINESS",
+        "streamlit"
+    ],
+    "black-formatter.args": [
+        "--skip-string-normalization",
+        "--line-length", 
+        "80"
+    ]
+}
